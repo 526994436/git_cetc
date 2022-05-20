@@ -1,3 +1,6 @@
-[user]
-	name = cetc28
-	email = 526994436@qq.com
+Class Hello{
+public static void main(String[]args){
+		system.out.println(""hello);
+		}
+	
+		}
